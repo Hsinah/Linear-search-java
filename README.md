@@ -1,6 +1,6 @@
 # Linear-search-java
 
-**All Implements of linear Search **
+#All Implements of linear Search 
 
 1)Linear Search using numbers
 2)Linear Search using string
